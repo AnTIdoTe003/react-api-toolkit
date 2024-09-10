@@ -202,17 +202,9 @@ To publish your package to npm:
     npm publish
     ```
 
-## 📝 License
-
-This package is licensed under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [contributing guide](CONTRIBUTING.md) for more details.
-
 ## 💬 Support
 
-For any issues or questions, please open an issue on [GitHub](https://github.com/your-repo/issues).
+For any issues or questions, please open an issue on [GitHub](https://github.com/AnTIdoTe003/react-api-toolkit).
 
 ---
 
